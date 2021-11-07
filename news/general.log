@@ -1,0 +1,42 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 10697
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2108
+C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 4894
+"GET /admin/ HTTP/1.1" 200 4894
+C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:34:01,737 INFO %(module)s Watching for file changes with StatReloader
+2021-11-07 10:36:26,639 INFO %(module)s C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:37:41,195 INFO %(module)s Watching for file changes with StatReloader
+2021-11-07 10:38:56,763 INFO %(module)s C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:44:14,350 INFO %(module)s Watching for file changes with StatReloader
+2021-11-07 10:44:41,481 INFO %(module)s C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:44:42,555 INFO %(module)s Watching for file changes with StatReloader
+2021-11-07 10:45:07,862 INFO %(module)s C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:45:09,136 INFO %(module)s Watching for file changes with StatReloader
+2021-11-07 10:46:05,020 INFO %(module)s C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:47:33,446 INFO %(module)s Watching for file changes with StatReloader
+2021-11-07 10:49:26,230 INFO %(module)s C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:49:27,586 INFO %(module)s Watching for file changes with StatReloader
+2021-11-07 10:50:07,401 INFO %(module)s C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:50:42,746 INFO %(module)s Watching for file changes with StatReloader
+2021-11-07 10:51:13,922 INFO %(module)s C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:51:15,250 INFO autoreload Watching for file changes with StatReloader
+2021-11-07 10:52:30,806 INFO autoreload C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:52:32,111 INFO autoreload Watching for file changes with StatReloader
+2021-11-07 10:53:36,027 INFO autoreload C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:53:37,436 INFO autoreload Watching for file changes with StatReloader
+2021-11-07 10:54:16,236 INFO autoreload C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:54:17,552 INFO autoreload Watching for file changes with StatReloader
+2021-11-07 10:55:48,905 INFO autoreload C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:55:50,298 INFO autoreload Watching for file changes with StatReloader
+2021-11-07 10:57:56,009 INFO autoreload C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:57:57,379 INFO autoreload Watching for file changes with StatReloader
+2021-11-07 10:58:55,342 INFO autoreload C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 10:58:56,713 INFO autoreload Watching for file changes with StatReloader
+2021-11-07 11:02:30,680 INFO autoreload C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 11:03:08,710 INFO autoreload Watching for file changes with StatReloader
+2021-11-07 11:03:57,889 INFO autoreload C:\Users\anton\OneDrive\Документы\Code\Курс Python в SkillFactory\Проэкты с кодами\Django_new\news\news\settings.py changed, reloading.
+2021-11-07 11:03:59,199 INFO autoreload Watching for file changes with StatReloader
